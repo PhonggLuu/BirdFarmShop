@@ -4,7 +4,6 @@
 - Lê Ngọc Huỳnh Đức - SE160643
 - Phạm Lê Nhật Hoàng - SE161933
 - Trương Lê Minh - SE160798
-- Lâm Trường Thọ - SE161012
 ## Documentation
 - SWP391_Group02_Project Tracking:
   https://docs.google.com/spreadsheets/d/1muWeqgGrU8ysKCR59wGi0zGcOt_7gK0u/edit?usp=sharing&ouid=112175217705909744598&rtpof=true&sd=true
